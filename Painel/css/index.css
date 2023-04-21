@@ -3,6 +3,11 @@
     margin-left: 38%;
 }
 
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
 #name {
     font-family: 'Press Start 2P';
     color: #fff;
